@@ -1,3 +1,4 @@
+import Dashboard from './pages/dashboard'
 import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
@@ -5,7 +6,7 @@ import './App.css'
 import ColorBends from './components/ColorBends'
 import LandingPage from './pages/LandingPage'
 import { Routes,Route } from 'react-router-dom'
-import Dashboard from './pages/dashboard'
+
 
 function App() {
 
